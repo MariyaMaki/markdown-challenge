@@ -1,6 +1,6 @@
 # Mariya
 *I never learn; I either win or learn!*
-! [alt text] (Photo CV s.jpg)
+![alt text](img/Photo.jpg)
 ## I'm the crazy kind!
 | Birthday: | 12 avril 93 |
 | Favorite color: | Green |
