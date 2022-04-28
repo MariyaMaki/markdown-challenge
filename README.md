@@ -1,5 +1,5 @@
 # Mariya
-*I never learn; I either win or learn!*
+*I never lose; I either win or learn!*
 
 ![alt text](img/Photo.jpg)
 
