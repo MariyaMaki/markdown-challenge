@@ -10,8 +10,9 @@
 |Favorite food:|everything with potatoes except gnochis cause it's an insult to the potato!|
 |Pinneapple on pizza:|No :rage:|
 ### Hobbies
-- Food
-- Movies
-- Books
-  °Fantasy
-  °
+* Food
+* Movies
+* Books
+  - Fantasy
+  - Thriller
+  
