@@ -1,7 +1,8 @@
 # Mariya
 *I never learn; I either win or learn!*
+
 ![alt text](img/Photo.jpg)
------
+
 ## I'm the crazy kind!
 |Ask|answer|
 |-----|-----|
@@ -21,6 +22,6 @@
   I injured my ankle on a mountain, had to go all the way down alone, met a dead foal (he was eaten by something) and when I arrived down the guides told me there was a bear up there and they didn't tell before so we can have a nice stroll...
   ###### TL;DR
   Guides want people dead :joy:
-  
+
   [<<](https://github.com/AnaisnKoussa/markdown-challenge-/blob/main/README.md)||Mariya Krasteva||[>>](https://github.com/lambertnicolas/markdown-challenge/blob/main/README.md)
 
