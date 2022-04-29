@@ -1,5 +1,5 @@
 # Mariya
-*I never lose; I either win or learn!*
+*I never lose; I either win or learn! Nelson Mandela*
 
 ![alt text](img/Photo.jpg)
 
